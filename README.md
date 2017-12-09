@@ -6,7 +6,13 @@ Pierwszy projekt do git
 
     git status
     python ...
+## Deploy
 
+Komponent jest instalowany na instancji
+
+```
+bla bla bla
+```
 
 ## Najczesiej wykonywane komendy
 
@@ -30,3 +36,14 @@ testy Testy
 
 
 ### EEEEEEE
+
+3333
+
+444
+
+444
+
+
+44
+
+444
