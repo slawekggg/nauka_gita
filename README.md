@@ -29,10 +29,10 @@ curl google.com
 dodadanie kilku wierszy
 ```
 ### Testy
-```
+\
 testy Testy
 
-```
+\
 
 
 ### EEEEEEE
@@ -47,3 +47,11 @@ testy Testy
 44
 
 444
+
+
+
+
+###  Cos nowego
+
+```cos zupelnie nowego
+```
