@@ -16,4 +16,9 @@ Pierwszy projekt do git
 curl google.com
 ```
 
-2. 
+## Komitujemy GITA
+
+1. Ciekaowstka
+```
+dodadanie kilku wierszy
+```
